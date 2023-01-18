@@ -2,6 +2,7 @@
 /home/cir/Escritorio/cir/apuntes/devnet/mvc
 modificado por Cirino Silva Tovar el 9 sep 2022
 para que acepte el nombre y lo guarde
+LALO agrego esta linea <------------------------------------------
 """
 
 import tkinter as tk
@@ -23,6 +24,7 @@ class App(tk.Tk):
     controller = Controller(model, view)
     # set the controller to view
     view.setController(controller)
+    #  y tambien este comentario <-------------------------------------
 
 if __name__ == '__main__':
     app = App()
