@@ -2,6 +2,7 @@
 /home/cir/Escritorio/cir/apuntes/devnet/mvc
 modificado por Cirino Silva Tovar el 9 sep 2022
 para que acepte el nombre y lo guarde
+Esto esta modificado
 """
 
 import tkinter as tk
